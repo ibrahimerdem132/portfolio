@@ -23,7 +23,7 @@ Assets içinde üst ve alt olarak görüntüler mevcuttur.
 ## 📌 Kurulum ve Kullanım
 1. Projeyi yerel bilgisayarınıza klonlayın:
    ```sh
-   git clone https://github.com/ibrahimerdem132/portfolio-website.git
+   git clone https://github.com/ibrahimerdem132/portfolio.git
    ```
 2. HTML dosyasını tarayıcıda açarak önizleyin.
 
