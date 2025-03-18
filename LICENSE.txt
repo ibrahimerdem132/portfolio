@@ -1,0 +1,16 @@
+MIT Lisansı
+
+Telif Hakkı (c) 2025 İbrahim Erdem
+
+Bu yazılım ve ilgili dokümantasyon dosyalarının ("Yazılım") bir kopyasını ücretsiz olarak elde eden herkese, 
+herhangi bir kısıtlama olmaksızın, Yazılımı kullanma, kopyalama, değiştirme, birleştirme, yayımlama, dağıtma, 
+alt lisans verme ve/veya Yazılımın kopyalarını satma izni verilir ve 
+Yazılımın sağlandığı kişilere aşağıdaki koşullara tabi olarak aynı haklar tanınır:
+
+Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi, Yazılımın tüm kopyalarına veya önemli bölümlerine dahil edilmelidir.
+
+YAZILIM "OLDUĞU GİBİ", HERHANGİ BİR GARANTİ OLMAKSIZIN, AÇIK VEYA ZIMNİ OLARAK, TİCARETE ELVERİŞLİLİK, 
+BELİRLİ BİR AMACA UYGUNLUK VEYA İHLAL ETMEME DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, SUNULMAKTADIR. 
+HİÇBİR DURUMDA YAZARLAR VEYA TELİF HAKKI SAHİPLERİ, SÖZLEŞME, HAKSIZ FİİL VEYA BAŞKA BİR DURUMDA, 
+YAZILIM VEYA YAZILIMIN KULLANIMI YA DA DİĞER İLGİLENMELERLE İLGİLİ OLARAK ORTAYA ÇIKAN HERHANGİ BİR TALEP, 
+HASAR VEYA BAŞKA BİR YÜKÜMLÜLÜKTEN SORUMLU OLMAYACAKTIR.
