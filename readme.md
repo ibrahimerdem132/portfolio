@@ -30,7 +30,6 @@ Assets içinde üst ve alt olarak görüntüler mevcuttur.
 ## 🛠 Kullanılan Teknolojiler
 - **HTML5** - Yapısal içerik oluşturma
 - **CSS3** - Stilleme ve düzenleme
-- **JavaScript** - Etkileşimli özellikler
 - **FontAwesome** - İkon setleri
 
 ## 📜 Lisans
