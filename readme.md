@@ -18,8 +18,7 @@ Bu proje, modern ve duyarlı bir kişisel portföy web sitesidir.
 ```
 
 ## 📸 Ekran Görüntüsü
-![Portfolio Website](assets/üst.png) üst kısım
-![Portfolio Website](assets/alt.png) alt kısım
+Assets içinde üst ve alt olarak görüntüler mevcuttur.
 
 ## 📌 Kurulum ve Kullanım
 1. Projeyi yerel bilgisayarınıza klonlayın:
