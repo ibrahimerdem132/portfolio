@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Bu proje, modern ve duyarlı bir kişisel portföy web sitesidir. Laravel, PHP ve Unity gibi teknolojilerle geliştirilen projeler ve yetenekler hakkında bilgi içermektedir.
+Bu proje, modern ve duyarlı bir kişisel portföy web sitesidir.
 
 ## 🚀 Özellikler
 - Duyarlı (responsive) tasarım
